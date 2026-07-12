@@ -2,6 +2,8 @@
 
 **Last updated: July 12, 2026**
 
+[日本語 / Japanese Privacy Policy](/) · [Terms](/terms/) · [Community Guidelines](/community-guidelines/)
+
 This policy describes how SOKEI (the “App”) handles information. It is intended as a general service notice and may be updated when the available features or applicable requirements change.
 
 ## 1. Information we collect

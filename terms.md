@@ -6,6 +6,8 @@ permalink: /terms/
 
 **最終更新日 / Last updated: 2026年7月12日 / July 12, 2026**
 
+[プライバシーポリシー / Privacy Policy](/) · [Community Guidelines](/community-guidelines/)
+
 ## 日本語
 
 ### 1. Plusと料金
