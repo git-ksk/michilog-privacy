@@ -2,7 +2,7 @@
 
 **Last updated: July 12, 2026**
 
-[日本語 / Japanese Privacy Policy](/) · [Terms](/terms/) · [Community Guidelines](/community-guidelines/)
+[日本語 / Japanese Privacy Policy](./) · [Apple Standard Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) · [Community Guidelines](./community-guidelines/)
 
 This policy describes how SOKEI (the “App”) handles information. It is intended as a general service notice and may be updated when the available features or applicable requirements change.
 

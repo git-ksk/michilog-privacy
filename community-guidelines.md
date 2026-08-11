@@ -6,7 +6,7 @@ permalink: /community-guidelines/
 
 **最終更新日 / Last updated: 2026年7月12日 / July 12, 2026**
 
-[プライバシーポリシー / Privacy Policy](/) · [利用規約 / Terms](/terms/)
+[プライバシーポリシー / Privacy Policy](../) · [Apple標準の利用規約 / Apple Standard Terms](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
 
 ## 日本語
 
