@@ -1,6 +1,6 @@
 # 走景（SOKEI）プライバシーポリシー
 
-**最終更新日: 2026年7月12日**
+**最終更新日: 2026年9月15日**
 
 [English / English Privacy Policy](./en.html) · [Apple標準の利用規約](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) · [コミュニティガイドライン](./community-guidelines/)
 
@@ -13,7 +13,7 @@
 - **写真**: ユーザーが選択して保存する画像。画像はFirebase Storage等に保存される場合があります。
 - **バイク・整備データ**: バイク情報、オドメーター、整備予定・整備履歴。
 - **購入情報**: Plusの購入、復元、契約状態、更新・失効に関する情報。決済カード情報は本アプリでは取得しません。
-- **利用情報**: Firebase Analytics、Remote Config、必要な品質改善用の技術情報。広告配信を本ポリシーの対象機能として扱いません。
+- **利用・診断情報**: Firebase Analytics、Remote Config、および品質改善・障害対応に必要なFirebase Crashlyticsのクラッシュ/例外診断情報。Crashlyticsにはアプリ/ビルド版、プラットフォーム、配布区分、認証状態・Plus状態などの限定された状態を付与する場合があります。メールアドレス、アカウント識別子、正確な位置情報、走行ルート、写真、タイトル/メモ、レシート、トークン等のユーザー内容をCrashlyticsへ意図的に付与しません。広告配信を本ポリシーの対象機能として扱いません。
 
 ## 2. 利用目的と保存場所
 
@@ -21,7 +21,7 @@
 
 無料ユーザーの基本走行データは原則として端末内（SQLite等）に保存します。Plusユーザーは、Supabase/PostgreSQLとPowerSyncを用いたクラウドバックアップ・同期を利用できます。端末内の同期用キャッシュとクラウド上のデータは、アカウントごとに分離します。
 
-Supabase Auth/PostgreSQL、PowerSync、RevenueCat、Firebase Analytics、Firebase Storage、Firebase Remote Config等のサービスを利用します。これらは各サービス提供者の規約・プライバシーポリシーに従って処理され、海外のサーバーで処理される場合があります。
+Supabase Auth/PostgreSQL、PowerSync、RevenueCat、Firebase Analytics、Firebase Crashlytics、Firebase Storage、Firebase Remote Config等のサービスを利用します。これらは各サービス提供者の規約・プライバシーポリシーに従って処理され、海外のサーバーで処理される場合があります。
 
 ## 3. 公開投稿（将来機能）
 

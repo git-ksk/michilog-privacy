@@ -1,6 +1,6 @@
 # SOKEI Privacy Policy
 
-**Last updated: July 12, 2026**
+**Last updated: September 15, 2026**
 
 [日本語 / Japanese Privacy Policy](./) · [Apple Standard Terms of Use](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) · [Community Guidelines](./community-guidelines/)
 
@@ -13,7 +13,7 @@ This policy describes how SOKEI (the “App”) handles information. It is inten
 - **Photos**: Images selected by the user, which may be stored in Firebase Storage.
 - **Motorcycle and maintenance data**: Motorcycle details, odometer values, maintenance schedules and records.
 - **Purchase information**: Plus purchase, restore, subscription status, renewal and expiration information. We do not receive payment card details.
-- **Usage information**: Firebase Analytics, Remote Config and technical information needed for quality and support. Advertising delivery is not treated as an available feature in this policy.
+- **Usage and diagnostics information**: Firebase Analytics, Remote Config, and Firebase Crashlytics crash/exception diagnostics needed for quality and support. Crash diagnostics may include app/build version, platform, runtime distribution class, and bounded authentication/Plus state. We do not intentionally attach email, account identifiers, precise location, routes, photos, titles/notes, receipts, tokens, or other user content to Crashlytics. Advertising delivery is not treated as an available feature in this policy.
 
 ## 2. Purposes and storage
 
@@ -21,7 +21,7 @@ We use information to provide authentication, trip recording, photo display, bac
 
 Free users’ basic trip data is generally kept locally on the device (including SQLite). Plus users may use cloud backup and synchronization through Supabase/PostgreSQL and PowerSync. Local sync caches and cloud data are isolated by account.
 
-We use Supabase Auth/PostgreSQL, PowerSync, RevenueCat, Firebase Analytics, Firebase Storage and Firebase Remote Config. These providers may process information outside the user’s country under their own policies and terms.
+We use Supabase Auth/PostgreSQL, PowerSync, RevenueCat, Firebase Analytics, Firebase Crashlytics, Firebase Storage and Firebase Remote Config. These providers may process information outside the user’s country under their own policies and terms.
 
 ## 3. Future public posts
 
